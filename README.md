@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saloni Kumari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.fa218b27d840abf8ec2e4823b7383e22?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f74038190%2f249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif&ehk=E0raYBOhl1csmBO1%2bCe%2bYeam4xFoCQWCdAO9lnVVZx4%3d">
 🔍 I love working with **data** to uncover insights, build visualizations, and make data-driven decisions.  
 
 - 📊 I specialize in **Data Analysis, Visualization, and Business Intelligence**  
@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="blank">
+  <a href="https://www.linkedin.com/in/saloni-kumari2003/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/your-github-username" target="blank">
+  <a href="https://github.com/Saloni-Kumari-3103" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
